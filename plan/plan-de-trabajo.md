@@ -1,20 +1,31 @@
-# Plan de trabajo del proyecto
 
-## 1. Objetivo
-Desarrollar una aplicación de software que cumpla con los requisitos establecidos para el proyecto.
+# PROYECTO FINAL DE SISTEMAS OPERATIVOS
 
-## 2. Actividades
+## Integrantes del grupo
+
+- Yeri Leandro Carabalí
+- Juan Andrés Sánchez
+- Juan Esteban Velascos
+
+## 1. Objetivo general
+
+Organizar y desarrollar las actividades correspondientes al proyecto final de la asignatura Sistemas Operativos.
+
+## 2. Plan de trabajo
 
 | Actividad | Descripción |
 |---|---|
-| Análisis | Identificar los requisitos del proyecto. |
-| Diseño | Diseñar la interfaz y la estructura del sistema. |
-| Desarrollo | Programar las funcionalidades. |
-| Pruebas | Verificar el funcionamiento del sistema. |
-| Entrega | Presentar el proyecto terminado. |
+| Investigación | Consultar los temas relacionados con el proyecto. |
+| Análisis | Identificar los requisitos y objetivos. |
+| Desarrollo | Realizar las actividades prácticas del proyecto. |
+| Pruebas | Revisar los resultados obtenidos. |
+| Documentación | Registrar el proceso y los resultados. |
+| Entrega | Presentar el proyecto al docente. |
 
 ## 3. Organización del equipo
-Los integrantes trabajarán conjuntamente en el desarrollo, revisión y documentación del proyecto.
 
-## 4. Entrega
-Se entregará el proyecto con su documentación y funcionalidades correspondientes.
+Los tres integrantes participarán en la investigación, desarrollo, documentación y revisión del proyecto.
+
+## 4. Resultado esperado
+
+Entregar un proyecto organizado, documentado y acorde con las indicaciones del docente.
