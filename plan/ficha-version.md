@@ -1,27 +1,33 @@
 
-# Ficha de versión del proyecto
+# FICHA DE VERSIÓN
 
-## Información general
+## Información del proyecto
 
-- **Nombre del proyecto:** Sistema de software
+- **Proyecto:** Proyecto Final de Sistemas Operativos
 - **Versión:** 1.0.0
 - **Estado:** En desarrollo
-- **Tipo de versión:** Versión inicial
+- **Asignatura:** Sistemas Operativos
+
+## Integrantes
+
+- Yeri Leandro Carabalí
+- Juan Andrés Sánchez
+- Juan Esteban Velascos
 
 ## Descripción
 
-Esta versión corresponde a la primera entrega del proyecto e incluye la planificación inicial y la organización del desarrollo.
+Esta versión corresponde a la planificación inicial del proyecto final de la asignatura Sistemas Operativos.
 
 ## Cambios realizados
 
 - Creación del repositorio en GitHub.
 - Creación de la carpeta plan.
 - Elaboración del plan de trabajo.
-- Documentación de la versión inicial.
+- Creación de la ficha de versión.
 
-## Próximas mejoras
+## Próximas actividades
 
-- Completar las funcionalidades del sistema.
-- Realizar pruebas.
-- Corregir errores.
-- Mejorar la interfaz.
+- Continuar con el desarrollo del proyecto.
+- Realizar las pruebas correspondientes.
+- Documentar los resultados.
+- Preparar la entrega final.
